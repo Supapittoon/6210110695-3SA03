@@ -3,7 +3,7 @@
   background-color: blue
 }
 .App-body {
-  background-color: #cccccc;
+  background-color: #0c0c0c;
  }
 
 .App-logo {
@@ -17,6 +17,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #3d6cca;
@@ -36,6 +37,8 @@
   box-shadow: 0 4px 8px 0 rgba(5, 83, 105, 0.2);
   margin: 1em;
   user-select: none;
+  border-width: 40em;
+  background-color: bisque;
  }
 
 .App-link {
