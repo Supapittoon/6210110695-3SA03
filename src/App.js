@@ -5,8 +5,10 @@ import WordCard from './WordCard';
 const word = "Hello";
 function App() {
  return (
+ 
  <div>
-    <WordCard value="hello"/>
+   <h1 >  key word = Fruit</h1>
+    <WordCard value="orange"/>
 
  </div>
  );
